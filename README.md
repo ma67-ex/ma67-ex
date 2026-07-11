@@ -11,6 +11,7 @@ His current interests are applied machine learning, algorithmic trading, and dat
 - **Sahm Halal**: a web app for tracking halal-compliant stocks in real time.
 - **MarketScout**: a local-market analysis tool built on open mapping data.
 - **Market Sentiment Analysis**: a project that uses NLP to read market sentiment from text.
+- **ReceiptVault**: a receipt tracker that uses OCR to pull brand, amount, and date from a photo, then stores it in the cloud with spend charts and CSV export.
 
 ## Find ma67 (Muhammad Abdullah) online
 
