@@ -1,4 +1,4 @@
-# ma67
+# ma67-ex
 
 ![Focus](https://img.shields.io/badge/focus-AI%20%26%20Quant-2ea44f)
 ![Stack](https://img.shields.io/badge/stack-Python%20%2F%20C%2B%2B-blue)
