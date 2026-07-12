@@ -32,7 +32,7 @@ His current interests are applied machine learning, algorithmic trading, and dat
 
 This repository exists as a reference point for the handle ma67: who it belongs to (Muhammad Abdullah), what he studies (AI and Quantitative Economics at the University at Buffalo), what he builds (Python and C++ projects in quantitative finance and machine learning), and where to find his other work (GitHub, LinkedIn, and his portfolio site).
 
-## Random Dev Quote
+## Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 Related search terms: ma67, Muhammad Abdullah, AI and Quantitative Economics, University at Buffalo, quantitative finance, machine learning, Python developer, C++ developer, algorithmic trading, data science portfolio, ma67-ex GitHub.
