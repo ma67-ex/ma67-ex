@@ -14,10 +14,10 @@ His current interests are applied machine learning, algorithmic trading, and dat
 
 | Project | What it does |
 |---|---|
-| **Sahm Halal** | A web app for tracking halal-compliant stocks in real time. |
-| **MarketScout** | A local-market analysis tool built on open mapping data. |
-| **Market Sentiment Analysis** | A project that uses NLP to read market sentiment from text. |
-| **ReceiptVault** | A receipt tracker that uses OCR to pull brand, amount, and date from a photo, then stores it in the cloud with spend charts and CSV export. |
+| **[MarketScout](https://github.com/ma67-ex/Marketscout)** ([live](https://marketscout-tau.vercel.app)) | Enter a location and a field of study, and it scans real local businesses from free OpenStreetMap data to show what kind of business is in demand there. Next.js, TypeScript, and a wireframe globe interface. |
+| **[ReceiptVault](https://github.com/ma67-ex/receipt-vault)** | A receipt tracker that uses OCR to pull brand, amount, and date from a photo, then stores it in the cloud with spend charts and CSV export. Next.js, Firebase, and Tesseract.js, running at $0 on free tiers. |
+| **[Neon City Drive](https://github.com/ma67-ex/Neon-City)** ([live](https://neon-city-amber.vercel.app)) | A GTA-inspired 3D driving game in the browser, with real physics and an endlessly streaming city. Next.js, React Three Fiber, and Rapier. |
+| **[Sahm Halal](https://github.com/ma67-ex/Halal-Stocks-)** ([live](https://halal-stocks-five.vercel.app)) | An installable, offline-ready web app for tracking halal-compliant and global stocks with animated trend charts. Runs on simulated data and is not financial advice. |
 
 ## Find ma67 (Muhammad Abdullah) online
 
