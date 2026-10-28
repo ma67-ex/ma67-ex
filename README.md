@@ -16,7 +16,7 @@ I'm interested in applied machine learning, algorithmic trading, and data-driven
 |---|---|
 | **[Retail Research Agent](https://github.com/ma67-ex/retail-research-agent)** | An investing research assistant that looks facts up in live data and checks every number and quote it gives. Runs on a local model through Ollama with FastAPI and no paid APIs, and can be white-labeled by brokers and fintech apps. |
 | **[OpenTerm](https://github.com/ma67-ex/openterm)** ([live](https://openterm-lovat.vercel.app)) | An open-source, Bloomberg-style market terminal built only on free data sources. |
-| **[MarketScout](https://github.com/ma67-ex/Marketscout)** ([live](https://marketscout-tau.vercel.app)) | Enter a location and a field of study, and it scans real local businesses from free OpenStreetMap data to show what kind of business is in demand there. Next.js, TypeScript, and a wireframe globe interface. |
+| **[MarketScout](https://github.com/ma67-ex/Marketscout)** ([live](https://www.agenvise.in/)) | Enter a location and a field of study, and it scans real local businesses from free OpenStreetMap data to show what kind of business is in demand there. Next.js, TypeScript, and a wireframe globe interface. |
 | **[ReceiptVault](https://github.com/ma67-ex/receipt-vault)** | A receipt tracker that uses OCR to pull brand, amount, and date from a photo, then stores it in the cloud with spend charts and CSV export. Next.js, Firebase, and Tesseract.js, running at $0 on free tiers. |
 
 ## Find me online
