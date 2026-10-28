@@ -21,9 +21,8 @@ I'm interested in applied machine learning, algorithmic trading, and data-driven
 
 ## Find me online
 
-- Portfolio: [ma67-ex.github.io](https://ma67-ex.github.io)
+- Website: [ma67.dev](https://ma67.dev)
 - LinkedIn: [linkedin.com/in/ma67](https://linkedin.com/in/ma67)
-- Site: [ma67.dev](https://ma67.dev)
 
 ## Tech Stack
 
