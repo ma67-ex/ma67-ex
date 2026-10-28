@@ -14,10 +14,10 @@ His current interests are applied machine learning, algorithmic trading, and dat
 
 | Project | What it does |
 |---|---|
+| **[Retail Research Agent](https://github.com/ma67-ex/retail-research-agent)** | An investing research assistant that looks facts up in live data and checks every number and quote it gives. Runs on a local model through Ollama with FastAPI and no paid APIs, and can be white-labeled by brokers and fintech apps. |
+| **[OpenTerm](https://github.com/ma67-ex/openterm)** ([live](https://openterm-lovat.vercel.app)) | An open-source, Bloomberg-style market terminal built only on free data sources. |
 | **[MarketScout](https://github.com/ma67-ex/Marketscout)** ([live](https://marketscout-tau.vercel.app)) | Enter a location and a field of study, and it scans real local businesses from free OpenStreetMap data to show what kind of business is in demand there. Next.js, TypeScript, and a wireframe globe interface. |
 | **[ReceiptVault](https://github.com/ma67-ex/receipt-vault)** | A receipt tracker that uses OCR to pull brand, amount, and date from a photo, then stores it in the cloud with spend charts and CSV export. Next.js, Firebase, and Tesseract.js, running at $0 on free tiers. |
-| **[Neon City Drive](https://github.com/ma67-ex/Neon-City)** ([live](https://neon-city-amber.vercel.app)) | A GTA-inspired 3D driving game in the browser, with real physics and an endlessly streaming city. Next.js, React Three Fiber, and Rapier. |
-| **[Sahm Halal](https://github.com/ma67-ex/Halal-Stocks-)** ([live](https://halal-stocks-five.vercel.app)) | An installable, offline-ready web app for tracking halal-compliant and global stocks with animated trend charts. Runs on simulated data and is not financial advice. |
 
 ## Find ma67 (Muhammad Abdullah) online
 
